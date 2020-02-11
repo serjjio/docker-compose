@@ -1,0 +1,1 @@
+This is a docker-compose to build a container for nginx + php-fpm + mysql + xdebug 
